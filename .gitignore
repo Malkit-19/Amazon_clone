@@ -1,0 +1,32 @@
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# VS Code
+.vscode/
+
+# JetBrains
+.idea/
+
+# Logs
+*.log
+
+# Temporary Files
+*.tmp
+*.temp
+
+# Node (if added later)
+node_modules/
+
+# Build
+dist/
+build/
+
+# Cache
+.cache/
+
+# OS
+ehthumbs.db
